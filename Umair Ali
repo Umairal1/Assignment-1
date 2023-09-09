@@ -1,0 +1,4 @@
+name = "Umair Ali"
+student_id = "202312035"
+
+print("My name is", name, "and my student ID is", student_id)
